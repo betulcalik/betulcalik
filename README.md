@@ -4,6 +4,6 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/betulclaik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/betulcalik" height="30" width="40" /></a>
-  <a href="https://kaggle.com/betulcalik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle.com/betulcalik" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/betulcalik" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/betulcalik" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/betulcalikx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle.com/betulcalik" height="30" width="40" /></a>
 </p>
