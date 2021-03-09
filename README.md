@@ -3,7 +3,5 @@
 <img src="https://data.whicdn.com/images/347489951/original.gif" width= "500" height="300">
 
 ### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/betulcalik" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/betulcalik" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/betulcalikx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle.com/betulcalik" height="30" width="40" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betulcalik)](https://www.linkedin.com/in/betulcalik)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-white?style=flat&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/betulcalikx)](https://www.kaggle.com/betulcalikx)
