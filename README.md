@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="banner.svg" width="720" alt="Betül Çalık — iOS Engineer" />
+<img src="banner.svg" width="720" alt="Betül Tarhan — iOS Engineer" />
 
 [![Website](https://img.shields.io/badge/betulcalik.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://betulcalik.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulcalik)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=icloud&logoColor=white)](mailto:betulcalik82@icloud.com)
-[![Views](https://komarev.com/ghpvc/?username=betulcalik&style=for-the-badge&color=22c55e)](https://github.com/betulcalik)
 
 </div>
 
