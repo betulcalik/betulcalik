@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="720" alt="Betül Tarhan — iOS Engineer" />
+<img src="banner.svg?v=2" width="720" alt="Betül Tarhan — Software Engineer" />
 
 [![Website](https://img.shields.io/badge/betulcalik.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://betulcalik.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulcalik)
